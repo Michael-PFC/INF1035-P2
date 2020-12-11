@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "pessoaExists",
+        "transactionLabel": "A test pessoaExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createPessoa",
+        "transactionLabel": "A test createPessoa transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readPessoa",
+        "transactionLabel": "A test readPessoa transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updatePessoa",
+        "transactionLabel": "A test updatePessoa transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deletePessoa",
+        "transactionLabel": "A test deletePessoa transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

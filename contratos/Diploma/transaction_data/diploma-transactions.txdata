@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "diplomaExists",
+        "transactionLabel": "A test diplomaExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createDiploma",
+        "transactionLabel": "A test createDiploma transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readDiploma",
+        "transactionLabel": "A test readDiploma transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateDiploma",
+        "transactionLabel": "A test updateDiploma transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteDiploma",
+        "transactionLabel": "A test deleteDiploma transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

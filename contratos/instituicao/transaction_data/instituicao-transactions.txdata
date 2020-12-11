@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "instituicaoExists",
+        "transactionLabel": "A test instituicaoExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createInstituicao",
+        "transactionLabel": "A test createInstituicao transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readInstituicao",
+        "transactionLabel": "A test readInstituicao transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateInstituicao",
+        "transactionLabel": "A test updateInstituicao transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteInstituicao",
+        "transactionLabel": "A test deleteInstituicao transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
